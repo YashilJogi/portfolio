@@ -11,7 +11,7 @@ function NavBar()
         <div style={{position:"absolute", marginLeft:"600px",display: 'block',  padding:50 }}>
       <Navbar bg="dark" variant="dark" style={{width:"1000px"}}>
         <div style={{marginLeft:"70px"}}>
-        <Navbar.Brand href="/" >
+        <Navbar.Brand href="/portfolio" >
           Home
         </Navbar.Brand>
         
