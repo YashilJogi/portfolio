@@ -21,7 +21,7 @@ function NavBar()
         <Navbar.Brand href="./resume" style={{marginLeft:"70px"}}>
           Resume
         </Navbar.Brand>
-        <Navbar.Brand href="/contact" style={{marginLeft:"70px",marginRight:"50px"}}>
+        <Navbar.Brand href="./contact" style={{marginLeft:"70px",marginRight:"50px"}}>
           Contact
         </Navbar.Brand>
         </div>
